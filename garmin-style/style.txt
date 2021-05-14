@@ -2718,15 +2718,15 @@ Type=0x10e05
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_6/Non-routable customizable line/Non NT, NT
 UseOrientation=N
 Xpm="32 7 2  1"
-"! c #0000FF"
+"! c #021dc1"
 "  c none"
 "                                "
 "                                "
-"                                "
-"                                "
-" !!! !!! !!! !!! !!! !!! !!! !!!"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"!! !!! !!! !!! !!! !!! !!! !!! !"
+"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"                                "
+"                                "
 ;12345678901234567890123456789012
 String1=0x12,Modra
 ExtendedLabels=Y
