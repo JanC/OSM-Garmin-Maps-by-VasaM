@@ -2740,18 +2740,14 @@ DaycustomColor:#0030B4
 Type=0x10e06
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_7/Non-routable customizable line/Non NT, NT
 UseOrientation=N
-Xpm="32 11 2  1"
-"! c #00FF00"
+Xpm="32 7 2  1"
+"! c #1b8a00"
 "  c none"
-" !!! !!! !!! !!! !!! !!! !!! !!!"
+"                                "
+"                                "
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"!! !!! !!! !!! !!! !!! !!! !!! !"
-"                                "
-"                                "
-"                                "
-"                                "
-"                                "
-"                                "
+"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 "                                "
 "                                "
 ;12345678901234567890123456789012
@@ -2767,20 +2763,16 @@ DaycustomColor:#006500
 Type=0x10e07
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_8/Non-routable customizable line/Non NT, NT
 UseOrientation=N
-Xpm="32 11 2  1"
-"! c #FFFF00"
+Xpm="32 7 2  1"
+"! c #dec51a"
 "  c none"
 "                                "
 "                                "
-"                                "
-"                                "
-"                                "
-"                                "
-"                                "
-"                                "
-" !!! !!! !!! !!! !!! !!! !!! !!!"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"!! !!! !!! !!! !!! !!! !!! !!! !"
+"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"                                "
+"                                "
 ;12345678901234567890123456789012
 String1=0x12,Zluta
 ExtendedLabels=Y
