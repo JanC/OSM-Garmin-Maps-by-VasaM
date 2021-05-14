@@ -2428,20 +2428,30 @@ ExtendedLabels=N
 [end]
 
 
-[_line]
-Type=0x18
-;GRMN_TYPE: Water Features/STREAM/Small stream or creek/Non NT
-UseOrientation=N
-Xpm="32 3 2  1"
-"! c #7B95FF"
-"# c #BDFFFF"
-"#!!!#!!!#!!!#!!!#!!!#!!!#!!!#!!!"
-"!#!!!#!!!#!!!#!!!#!!!#!!!#!!!#!!"
-"#!!!#!!!#!!!#!!!#!!!#!!!#!!!#!!!"
-;12345678901234567890123456789012
-String1=0x12,Potok
-ExtendedLabels=N
+
+[_line] 
+Type=0x01800
+;Garmin:Stream-thin
+;36BB
+;typ=6
+LineWidth=2
+BorderWidth=0
+UseOrientation=Y
+String1=0x01,Ruisseau 
+String2=0x02,Bach 
+String3=0x04,Stream 
+String4=0x03,Beek 
+String5=0x15,Strumie≈Ñ 
+String6=0x10,C√≥rrego 
+String7=0x05,Ruscello 
+ExtendedLabels=Y
+FontStyle=SmallFont
+CustomColor=Day
+DaycustomColor:#4D80B3
+Xpm="0 0 1 0"
+"0 c #AAD3DF"
 [end]
+
 
 
 [_line]
