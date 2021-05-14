@@ -302,39 +302,39 @@ String1=0x12,Prumyslova zona
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #949494"
-"# c #C5C5C5"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"#######!#######!#######!#######!"
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"# c #E2E0D9"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
 ;12345678901234567890123456789012
 [end]
 
@@ -399,7 +399,7 @@ Type=0x17
 String1=0x12,Zelen/zahrada
 ExtendedLabels=N
 Xpm="0 0 1 0"
-"1 c #BDFF6A"
+"1 c #DCE8BB"
 [end]
 
 
@@ -410,7 +410,7 @@ String1=0x12,Golf
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #7BCA41"
-"# c #BDFFB4"
+"# c #CAE1AE"
 "###!############################"
 "##!!############################"
 "#!!!############################"
@@ -454,7 +454,7 @@ String1=0x12,Hriste
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #7BCA41"
-"# c #BDFFB4"
+"# c #CAE1AE"
 "#####!##########################"
 "###!!!!!########################"
 "##!!!!##!#######################"
@@ -498,7 +498,7 @@ String1=0x12,Hrbitov
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #626262"
-"# c #C0CA00"
+"# c #CAE1AE"
 "##!!############################"
 "##!!############################"
 "!!!!!!##########################"
@@ -544,7 +544,7 @@ FontStyle=Default
 CustomColor=Day
 DaycustomColor:#0000D5
 Xpm="0 0 1 0"
-"1 c #3965FF"
+"1 c #9ABFDA"
 [end]
 
 
@@ -557,7 +557,7 @@ FontStyle=Default
 CustomColor=Day
 DaycustomColor:#0000D5
 Xpm="0 0 1 0"
-"1 c #7B95FF"
+"1 c #9ABFDA"
 [end]
 
 
@@ -570,7 +570,7 @@ FontStyle=Default
 CustomColor=Day
 DaycustomColor:#0000D5
 Xpm="0 0 1 0"
-"1 c #7B95FF"
+"1 c #9ABFDA"
 [end]
 
 
@@ -583,7 +583,7 @@ FontStyle=Default
 CustomColor=Day
 DaycustomColor:#0000D5
 Xpm="32 32 2 1"
-"! c #7B95FF"
+"! c #9ABFDA"
 "  c none"
 " ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !"
 "! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! "
@@ -630,7 +630,7 @@ FontStyle=Default
 CustomColor=Day
 DaycustomColor:#0000D5
 Xpm="0 0 1 0"
-"1 c #7B95FF"
+"1 c #9ABFDA"
 [end]
 
 
@@ -694,7 +694,7 @@ String1=0x12,Sad
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #BDFF6A"
+"# c #DCE8BB"
 "################################"
 "################################"
 "#####!!!!#######################"
@@ -738,7 +738,7 @@ String1=0x12,Kroviny
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #3B9500"
-"# c #7BFF6A"
+"# c #DCE8BB"
 "#!!!############################"
 "!###!###########################"
 "!###!###########################"
@@ -782,33 +782,33 @@ String1=0x12,Les
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #7BCA41"
+"# c #CAE1AE"
 "################################"
 "################################"
 "################################"
-"######!!!#######################"
-"#####!#!#!######################"
-"####!#!#!#!#####################"
-"####!!#!#!!#####################"
-"####!#!#!#!#####################"
-"####!!#!#!!#####################"
-"####!#!#!#!#####################"
-"#####!#!#!######################"
-"######!!!#######################"
-"#######!########################"
-"#######!########################"
-"#######!########################"
-"######!!!!######################"
-"#######################!!#######"
-"#######################!!#######"
-"######################!!!!######"
-"#####################!!!!!!#####"
-"#######################!!#######"
-"######################!!!!######"
-"#####################!!!!!!#####"
-"#######################!!#######"
-"#######################!!#######"
-"######################!!!!!#####"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
 "################################"
 "################################"
 "################################"
@@ -825,7 +825,7 @@ Type=0x51
 String1=0x12,Mocal / Bazina
 ExtendedLabels=N
 Xpm="32 32 2 1"
-"! c #3965FF"
+"! c #9ABFDA"
 "  c none"
 "                    !           "
 "  !!!!!!!!          !   !       "
@@ -868,7 +868,7 @@ Type=0x10102
 ;GRMN_TYPE: Surface Cover Areas/LAND_URBAN/Urban land area/Non NT, NT
 ExtendedLabels=N
 Xpm="0 0 1 0"
-"1 c #FFFFB4"
+"1 c #E8E1CC"
 [end]
 
 
@@ -967,7 +967,7 @@ String1=0x12,Vinice
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #BDFF6A"
+"# c #DCE8BB"
 "################################"
 "########!#######################"
 "#######!########################"
@@ -1013,37 +1013,37 @@ FontStyle=NoLabel (invisible)
 CustomColor=No
 Xpm="32 32 2 1"
 "! c #396520"
-"# c #BDFF6A"
-"################################"
-"################################"
-"###################!##!##!######"
-"####################!#!#!#######"
-"####################!#!#!#######"
-"##!##!##!#######################"
-"###!#!#!########################"
-"###!#!#!########################"
+"# c #DCE8BB"
 "################################"
 "################################"
 "################################"
 "################################"
 "################################"
 "################################"
-"###########!##!##!##############"
-"############!#!#!###############"
-"############!#!#!###############"
-"################################"
-"########################!##!##!#"
-"#########################!#!#!##"
-"#########################!#!#!##"
 "################################"
 "################################"
 "################################"
 "################################"
-"######!##!##!###################"
-"#######!#!#!####################"
-"#######!#!#!##########!##!##!###"
-"#######################!#!#!####"
-"#######################!#!#!####"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
 "################################"
 "################################"
 ;12345678901234567890123456789012
@@ -1057,7 +1057,7 @@ String1=0x12,Park
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #BDFF6A"
+"# c #DCE8BB"
 "#!!#################!!!!########"
 "!##!###############!#!#!!!######"
 "!##!##############!!!#!#!#!#####"
@@ -1101,7 +1101,7 @@ String1=0x12,Chmelnice
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #BDFF6A"
+"# c #DCE8BB"
 "##########################!!####"
 "##########################!!!###"
 "##!!#######################!#!##"
@@ -1717,7 +1717,7 @@ String1=0x12,Taboreni
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #396520"
-"# c #399500"
+"# c #CAE1AE"
 "##!###!#########################"
 "##!!#!!#########################"
 "####!###########################"
@@ -2025,33 +2025,33 @@ String1=0x12,Smiseny les
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #7BCA41"
+"# c #CBE3B1"
 "################################"
 "################################"
 "################################"
-"######!!!#######################"
-"#####!#!#!######################"
-"####!#!#!#!#####################"
-"####!!#!#!!#####################"
-"####!#!#!#!#####################"
-"####!!#!#!!#####################"
-"####!#!#!#!#####################"
-"#####!#!#!######################"
-"######!!!#######################"
-"#######!########################"
-"#######!########################"
-"#######!########################"
-"######!!!!######################"
-"#######################!!#######"
-"#######################!!#######"
-"######################!!!!######"
-"#####################!!!!!!#####"
-"#######################!!#######"
-"######################!!!!######"
-"#####################!!!!!!#####"
-"#######################!!#######"
-"#######################!!#######"
-"######################!!!!!#####"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
 "################################"
 "################################"
 "################################"
@@ -2069,33 +2069,33 @@ String1=0x12,Jehlicnaty les
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #7BCA41"
+"# c #CBE3B1"
 "################################"
 "################################"
 "################################"
-"#######!!#######################"
-"#######!!#######################"
-"######!!!!######################"
-"#####!!!!!!#####################"
-"#######!!#######################"
-"######!!!!######################"
-"#####!!!!!!#####################"
-"#######!!#######################"
-"#######!!#######################"
-"######!!!!!#####################"
 "################################"
 "################################"
 "################################"
-"#######################!!#######"
-"#######################!!#######"
-"######################!!!!######"
-"#####################!!!!!!#####"
-"#######################!!#######"
-"######################!!!!######"
-"#####################!!!!!!#####"
-"#######################!!#######"
-"#######################!!#######"
-"######################!!!!!#####"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
 "################################"
 "################################"
 "################################"
@@ -2113,35 +2113,35 @@ String1=0x12,Listnaty les
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #7BCA41"
+"# c #CBE3B1"
 "################################"
 "################################"
 "################################"
-"######!!!#######################"
-"#####!#!#!######################"
-"####!#!#!#!#####################"
-"####!!#!#!!#####################"
-"####!#!#!#!#####################"
-"####!!#!#!!#####################"
-"####!#!#!#!#####################"
-"#####!#!#!######################"
-"######!!!#######################"
-"#######!########################"
-"#######!########################"
-"#######!########################"
-"######!!!!############!!!#######"
-"#####################!#!#!######"
-"####################!#!#!#!#####"
-"####################!!#!#!!#####"
-"####################!#!#!#!#####"
-"####################!!#!#!!#####"
-"####################!#!#!#!#####"
-"#####################!#!#!######"
-"######################!!!#######"
-"#######################!########"
-"#######################!########"
-"#######################!########"
-"######################!!!!######"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
+"################################"
 "################################"
 "################################"
 "################################"
@@ -2428,30 +2428,19 @@ ExtendedLabels=N
 [end]
 
 
-
-[_line] 
-Type=0x01800
-;Garmin:Stream-thin
-;36BB
-;typ=6
-LineWidth=2
-BorderWidth=0
+[_line]
+Type=0x18
+;GRMN_TYPE: Water Features/STREAM/Small stream or creek/Non NT
 UseOrientation=Y
-String1=0x01,Ruisseau 
-String2=0x02,Bach 
-String3=0x04,Stream 
-String4=0x03,Beek 
-String5=0x15,Strumieâ‰ˆÃ‘ 
-String6=0x10,Câˆšâ‰¥rrego 
-String7=0x05,Ruscello 
+LineWidth=2
+Xpm="0 0 1 0"
+"1 c #AAD3DF"
+String1=0x12,Potok
 ExtendedLabels=Y
 FontStyle=SmallFont
 CustomColor=Day
 DaycustomColor:#4D80B3
-Xpm="0 0 1 0"
-"0 c #AAD3DF"
 [end]
-
 
 
 [_line]
@@ -2490,7 +2479,7 @@ Type=0x1c
 ;GRMN_TYPE: Political Borders/MJR_PLTCL_BDRY/Major political boundary (typically used for state, provincial borders)/Non NT
 UseOrientation=N
 Xpm="32 5 2  1"
-"! c #396500"
+"! c #8EB761"
 "  c none"
 "!!!!!!!!   !!!!!!!!  !!!!!!!!   "
 "!!!!!!!!   !!!!!!!!  !!!!!!!!   "
@@ -2526,18 +2515,21 @@ ExtendedLabels=N
 [_line]
 Type=0x1f
 ;GRMN_TYPE: Water Features/RIVER/Large stream or river/Non NT
-UseOrientation=N
-Xpm="32 5 2  1"
-"! c #7B95FF"
-"# c #BDFFFF"
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"#!!!#!!!#!!!#!!!#!!!#!!!#!!!#!!!"
-"!#!!!#!!!#!!!#!!!#!!!#!!!#!!!#!!"
-"#!!!#!!!#!!!#!!!#!!!#!!!#!!!#!!!"
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-;12345678901234567890123456789012
-String1=0x12,Reka
-ExtendedLabels=N
+UseOrientation=Y
+LineWidth=7
+Xpm="0 0 1 0"
+"1 c #AAD3DF"
+String1=0x01,Riviere, Canal
+String2=0x02,Fluß, Kanal
+String3=0x04,River, Canal
+String4=0x03,Rivier, Kanaal
+String5=0x15,Rzeka, Kana³
+String6=0x10,Rio / Canal
+String7=0x05,Fiume/Canale
+ExtendedLabels=Y
+FontStyle=SmallFont
+CustomColor=Day
+DaycustomColor:#4D80B3
 [end]
 
 
@@ -2704,14 +2696,15 @@ ExtendedLabels=N
 Type=0x10e04
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_5/Non-routable customizable line/Non NT, NT
 UseOrientation=N
-Xpm="32 7 2  1"
+Xpm="32 8 2  1"
 "! c #C90000"
 "  c none"
+"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 "                                "
 "                                "
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"                                "
+"                                "
 "                                "
 "                                "
 ;12345678901234567890123456789012
@@ -2727,14 +2720,15 @@ DaycustomColor:#BD0000
 Type=0x10e05
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_6/Non-routable customizable line/Non NT, NT
 UseOrientation=N
-Xpm="32 7 2  1"
-"! c #021dc1"
+Xpm="32 8 2  1"
+"! c #021DC1"
 "  c none"
 "                                "
 "                                "
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"                                "
+"                                "
 "                                "
 "                                "
 ;12345678901234567890123456789012
@@ -2750,12 +2744,13 @@ DaycustomColor:#0030B4
 Type=0x10e06
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_7/Non-routable customizable line/Non NT, NT
 UseOrientation=N
-Xpm="32 7 2  1"
-"! c #1b8a00"
+Xpm="32 8 2  1"
+"! c #1B8A00"
 "  c none"
 "                                "
 "                                "
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"                                "
+"                                "
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 "                                "
@@ -2773,16 +2768,17 @@ DaycustomColor:#006500
 Type=0x10e07
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_8/Non-routable customizable line/Non NT, NT
 UseOrientation=N
-Xpm="32 7 2  1"
-"! c #dec51a"
+Xpm="32 8 2  1"
+"! c #DEC51A"
 "  c none"
 "                                "
 "                                "
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 "                                "
 "                                "
+"                                "
+"                                "
+"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 ;12345678901234567890123456789012
 String1=0x12,Zluta
 ExtendedLabels=Y
@@ -2815,6 +2811,7 @@ ExtendedLabels=N
 [_line]
 Type=0x10e09
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_10/Non-routable customizable line/Non NT, NT
+UseOrientation=N
 LineWidth=4
 Xpm="0 0 1 0"
 "1 c #FF658B"
@@ -2839,7 +2836,7 @@ Xpm="32 8 2  1"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 ;12345678901234567890123456789012
-String1=0x12,Vyhrazený pruh pro cyklisty
+String1=0x12,Vyhrazenï¿½ pruh pro cyklisty
 ExtendedLabels=N
 [end]
 
@@ -3093,7 +3090,8 @@ ExtendedLabels=N
 
 
 [_point]
-Type=0x00100
+Type=0x001
+SubType=0x00
 ;GRMN_TYPE: Political Entities/CITY_10M/Large city with >10 million inhabitants/Non NT
 ExtendedLabels=Y
 FontStyle=LargeFont
@@ -3108,7 +3106,8 @@ DayXpm="1 1 2 1"   Colormode=16
 
 
 [_point]
-Type=0x00600
+Type=0x006
+SubType=0x00
 ;GRMN_TYPE: Political Entities/CITY_200K/City with the range of (200, 500] thousand inhabitants/Non NT
 ExtendedLabels=Y
 FontStyle=LargeFont
@@ -3123,7 +3122,8 @@ DayXpm="1 1 2 1"   Colormode=16
 
 
 [_point]
-Type=0x00900
+Type=0x009
+SubType=0x00
 ;GRMN_TYPE: Political Entities/CITY_20K/City with the range of (20, 50] thousand inhabitants/Non NT
 ExtendedLabels=Y
 FontStyle=LargeFont
@@ -3138,7 +3138,8 @@ DayXpm="1 1 2 1"   Colormode=16
 
 
 [_point]
-Type=0x00a00
+Type=0x00a
+SubType=0x00
 ;GRMN_TYPE: Political Entities/CITY_10K/City with the range of (10, 20] thousand inhabitants/Non NT
 ExtendedLabels=Y
 FontStyle=LargeFont
@@ -3153,7 +3154,8 @@ DayXpm="1 1 2 1"   Colormode=16
 
 
 [_point]
-Type=0x00b00
+Type=0x00b
+SubType=0x00
 ;GRMN_TYPE: Political Entities/CITY_5K/City with the range of (5, 10] thousand inhabitants/Non NT
 ExtendedLabels=Y
 FontStyle=LargeFont
@@ -3168,7 +3170,8 @@ DayXpm="1 1 2 1"   Colormode=16
 
 
 [_point]
-Type=0x00c00
+Type=0x00c
+SubType=0x00
 ;GRMN_TYPE: Political Entities/CITY_LT5K, SMALL_CITY/Small city or town center, typically less than 50K inhabitants/Non NT
 ExtendedLabels=Y
 FontStyle=LargeFont
@@ -3183,7 +3186,8 @@ DayXpm="1 1 2 1"   Colormode=16
 
 
 [_point]
-Type=0x02800
+Type=0x028
+SubType=0x00
 ;GRMN_TYPE: Geographical Named Points of Interest - Water and Land Related/ISLAND/Island/Non NT, NT
 String1=0x12,Ostrov
 ExtendedLabels=N
@@ -3205,7 +3209,8 @@ DayXpm="13 7 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02900
+Type=0x029
+SubType=0x00
 ;GRMN_TYPE: Misc. Points of Interest/BUSINESS/Uncategorized business/Non NT, NT
 String1=0x12,Komin
 ExtendedLabels=N
@@ -3238,7 +3243,8 @@ DayXpm="13 18 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02901
+Type=0x029
+SubType=0x01
 ;GRMN_TYPE: //
 String1=0x12,Katedrala
 ExtendedLabels=N
@@ -3270,7 +3276,8 @@ DayXpm="16 16 6 1"   Colormode=16
 
 
 [_point]
-Type=0x02902
+Type=0x029
+SubType=0x02
 ;GRMN_TYPE: //
 String1=0x12,Banka
 ExtendedLabels=N
@@ -3297,7 +3304,8 @@ DayXpm="11 13 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02903
+Type=0x029
+SubType=0x03
 ;GRMN_TYPE: //
 String1=0x12,Zubar
 ExtendedLabels=N
@@ -3326,7 +3334,8 @@ DayXpm="13 16 3 1"   Colormode=16
 
 
 [_point]
-Type=0x02904
+Type=0x029
+SubType=0x04
 ;GRMN_TYPE: //
 String1=0x12,Nemocnice
 ExtendedLabels=N
@@ -3352,7 +3361,8 @@ DayXpm="12 12 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02905
+Type=0x029
+SubType=0x05
 ;GRMN_TYPE: //
 String1=0x12,Silo
 ExtendedLabels=N
@@ -3381,7 +3391,8 @@ DayXpm="10 14 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02906
+Type=0x029
+SubType=0x06
 ;GRMN_TYPE: //
 String1=0x12,Kriz
 ExtendedLabels=N
@@ -3403,7 +3414,8 @@ DayXpm="7 9 3 1"   Colormode=16
 
 
 [_point]
-Type=0x02907
+Type=0x029
+SubType=0x07
 ;GRMN_TYPE: //
 String1=0x12,Osamely strom
 ExtendedLabels=N
@@ -3431,7 +3443,8 @@ DayXpm="12 13 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02908
+Type=0x029
+SubType=0x08
 ;GRMN_TYPE: //
 String1=0x12,Kaple
 ExtendedLabels=N
@@ -3457,7 +3470,8 @@ DayXpm="7 13 3 1"   Colormode=16
 
 
 [_point]
-Type=0x02909
+Type=0x029
+SubType=0x09
 ;GRMN_TYPE: //
 String1=0x12,Sloup
 ExtendedLabels=N
@@ -3475,7 +3489,8 @@ DayXpm="5 5 3 1"   Colormode=16
 
 
 [_point]
-Type=0x0290a
+Type=0x029
+SubType=0x0a
 ;GRMN_TYPE: //
 String1=0x12,Vyhlidka
 ExtendedLabels=N
@@ -3504,7 +3519,8 @@ DayXpm="16 16 3 1"   Colormode=16
 
 
 [_point]
-Type=0x0290b
+Type=0x029
+SubType=0x0b
 ;GRMN_TYPE: //
 String1=0x12,Tezni vez
 ExtendedLabels=N
@@ -3535,7 +3551,8 @@ DayXpm="14 18 3 1"   Colormode=16
 
 
 [_point]
-Type=0x0290c
+Type=0x029
+SubType=0x0c
 ;GRMN_TYPE: //
 String1=0x12,Usti stoly
 ExtendedLabels=N
@@ -3563,7 +3580,8 @@ DayXpm="16 14 4 1"   Colormode=16
 
 
 [_point]
-Type=0x0290d
+Type=0x029
+SubType=0x0d
 ;GRMN_TYPE: //
 String1=0x12,Valcova nadrz
 ExtendedLabels=N
@@ -3591,7 +3609,8 @@ DayXpm="10 14 4 1"   Colormode=16
 
 
 [_point]
-Type=0x0290e
+Type=0x029
+SubType=0x0e
 ;GRMN_TYPE: //
 String1=0x12,Vetrna elektrarna, mlyn
 ExtendedLabels=N
@@ -3618,7 +3637,8 @@ DayXpm="9 13 4 1"   Colormode=16
 
 
 [_point]
-Type=0x0290f
+Type=0x029
+SubType=0x0f
 ;GRMN_TYPE: //
 String1=0x12,Vodojem
 ExtendedLabels=N
@@ -3648,7 +3668,8 @@ DayXpm="8 16 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02910
+Type=0x029
+SubType=0x10
 ;GRMN_TYPE: //
 String1=0x12,Studna, vrt
 ExtendedLabels=Y
@@ -3676,7 +3697,8 @@ DayXpm="9 9 6 1"   Colormode=16
 
 
 [_point]
-Type=0x02911
+Type=0x029
+SubType=0x11
 ;GRMN_TYPE: //
 String1=0x12,Kasna, zridlo
 ExtendedLabels=N
@@ -3708,7 +3730,8 @@ DayXpm="16 17 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02912
+Type=0x029
+SubType=0x12
 ;GRMN_TYPE: //
 String1=0x12,Hranicni znak
 ExtendedLabels=N
@@ -3725,7 +3748,8 @@ DayXpm="5 5 2 1"   Colormode=0
 
 
 [_point]
-Type=0x02913
+Type=0x029
+SubType=0x13
 ;GRMN_TYPE: //
 String1=0x01,Krmeni zvere
 ExtendedLabels=N
@@ -3754,7 +3778,8 @@ DayXpm="17 16 3 1"   Colormode=16
 
 
 [_point]
-Type=0x02914
+Type=0x029
+SubType=0x14
 ;GRMN_TYPE: //
 String1=0x12,Posed
 ExtendedLabels=N
@@ -3782,7 +3807,8 @@ DayXpm="10 15 3 1"   Colormode=16
 
 
 [_point]
-Type=0x02915
+Type=0x029
+SubType=0x15
 ;GRMN_TYPE: //
 String1=0x12,Brana/branka
 ExtendedLabels=N
@@ -3811,7 +3837,8 @@ DayXpm="13 16 3 1"   Colormode=16
 
 
 [_point]
-Type=0x02a00
+Type=0x02a
+SubType=0x00
 ;GRMN_TYPE: Business - Food and Drink/RESTAURANT/General restaurant of unknown genre/Non NT
 String1=0x12,Restaurace
 ExtendedLabels=N
@@ -3838,7 +3865,8 @@ DayXpm="13 13 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02a07
+Type=0x02a
+SubType=0x07
 ;GRMN_TYPE: Business - Food and Drink/RESTAURANT_FAST_FOOD/Fast food establishment, i.e. McDonalds/Non NT
 String1=0x12,Fast food
 ExtendedLabels=N
@@ -3865,7 +3893,8 @@ DayXpm="13 13 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02b02
+Type=0x02b
+SubType=0x02
 ;GRMN_TYPE: Business - Lodging/BED_AND_BREAKFAST/Bed and breakfast inn/Non NT
 String1=0x12,Penzion
 ExtendedLabels=N
@@ -3892,7 +3921,8 @@ DayXpm="14 13 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02b03
+Type=0x02b
+SubType=0x03
 ;GRMN_TYPE: Business - Lodging/CAMPGROUND/Campground/Non NT
 String1=0x12,Kemp
 ExtendedLabels=N
@@ -3919,7 +3949,8 @@ DayXpm="13 13 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02b05
+Type=0x02b
+SubType=0x05
 ;GRMN_TYPE: //
 String1=0x12,Otevreny srub
 ExtendedLabels=N
@@ -3954,7 +3985,8 @@ DayXpm="18 19 6 1"   Colormode=16
 
 
 [_point]
-Type=0x02b06
+Type=0x02b
+SubType=0x06
 ;GRMN_TYPE: //
 String1=0x12,Nouzovy pristresek
 ExtendedLabels=N
@@ -3984,7 +4016,8 @@ DayXpm="16 16 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02b07
+Type=0x02b
+SubType=0x07
 ;GRMN_TYPE: //
 String1=0x12,Maly pristresek
 ExtendedLabels=N
@@ -4014,7 +4047,8 @@ DayXpm="16 16 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02c02
+Type=0x02c
+SubType=0x02
 ;GRMN_TYPE: Business - Attractions/MUSEUM/Museum or historical society/Non NT
 String1=0x12,Muzeum, galerie
 ExtendedLabels=N
@@ -4041,7 +4075,8 @@ DayXpm="14 12 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02c03
+Type=0x02c
+SubType=0x03
 ;GRMN_TYPE: Business - Attractions/LIBRARY/Library/Non NT
 String1=0x12,Knihovna
 ExtendedLabels=N
@@ -4068,7 +4103,8 @@ DayXpm="13 13 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02c04
+Type=0x02c
+SubType=0x04
 ;GRMN_TYPE: Business - Attractions/LANDMARK/Landmark/Non NT
 String1=0x12,Zajimavost
 ExtendedLabels=N
@@ -4096,7 +4132,8 @@ DayXpm="13 10 8 1"   Colormode=16
 
 
 [_point]
-Type=0x02c05
+Type=0x02c
+SubType=0x05
 ;GRMN_TYPE: Business - Attractions/SCHOOL/School/Non NT
 String1=0x12,Skola
 ExtendedLabels=N
@@ -4123,7 +4160,8 @@ DayXpm="11 10 7 1"   Colormode=16
 
 
 [_point]
-Type=0x02c06
+Type=0x02c
+SubType=0x06
 ;GRMN_TYPE: Business - Attractions/GARDEN, PARK/Garden, park/Non NT
 String1=0x12,Park
 ExtendedLabels=N
@@ -4152,7 +4190,8 @@ DayXpm="15 14 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02c07
+Type=0x02c
+SubType=0x07
 ;GRMN_TYPE: Business - Attractions/ZOO/Zoo/Non NT
 String1=0x12,ZOO
 ExtendedLabels=N
@@ -4183,7 +4222,8 @@ DayXpm="15 16 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02c08
+Type=0x02c
+SubType=0x08
 ;GRMN_TYPE: Business - Attractions/ARENA/Arena or track/Non NT
 String1=0x12,Hrad
 ExtendedLabels=N
@@ -4210,7 +4250,8 @@ DayXpm="11 13 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02c09
+Type=0x02c
+SubType=0x09
 ;GRMN_TYPE: Business - Attractions/HALL/Auditorium or hall/Non NT
 String1=0x12,Sin
 ExtendedLabels=N
@@ -4236,7 +4277,8 @@ DayXpm="16 11 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02c0b
+Type=0x02c
+SubType=0x0b
 ;GRMN_TYPE: Business - Attractions/PLACE_OF_WORSHIP/Religious place of worship/Non NT
 String1=0x12,Nabozenstvi
 ExtendedLabels=N
@@ -4266,7 +4308,8 @@ DayXpm="16 14 6 1"   Colormode=16
 
 
 [_point]
-Type=0x02c0c
+Type=0x02c
+SubType=0x0c
 ;GRMN_TYPE: //
 String1=0x12,Sopka
 ExtendedLabels=N
@@ -4294,7 +4337,8 @@ DayXpm="15 14 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02c0d
+Type=0x02c
+SubType=0x0d
 ;GRMN_TYPE: Business - Attractions/POW_MOSQUE/Religious place of worship/Non NT
 String1=0x12,Zricenina
 ExtendedLabels=N
@@ -4320,7 +4364,8 @@ DayXpm="12 12 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02c10
+Type=0x02c
+SubType=0x10
 ;GRMN_TYPE: Business - Attractions/POW_SYNAGOGUE/Religious place of worship/Non NT
 String1=0x12,Pomnik
 ExtendedLabels=N
@@ -4347,7 +4392,8 @@ DayXpm="12 12 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02d01
+Type=0x02d
+SubType=0x01
 ;GRMN_TYPE: Business - Entertainment/LIVE_THEATER/Live theater/Non NT
 String1=0x12,Divadlo
 ExtendedLabels=N
@@ -4377,7 +4423,8 @@ DayXpm="15 13 7 1"   Colormode=16
 
 
 [_point]
-Type=0x02d02
+Type=0x02d
+SubType=0x02
 ;GRMN_TYPE: Business - Entertainment/BAR/Bar or club/Non NT
 String1=0x12,Bar
 ExtendedLabels=N
@@ -4406,7 +4453,8 @@ DayXpm="11 12 7 1"   Colormode=16
 
 
 [_point]
-Type=0x02d03
+Type=0x02d
+SubType=0x03
 ;GRMN_TYPE: Business - Entertainment/MOVIE_THEATER/Movie theater or cinema/Non NT
 String1=0x12,Kino
 ExtendedLabels=N
@@ -4436,7 +4484,8 @@ DayXpm="16 16 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02d04
+Type=0x02d
+SubType=0x04
 ;GRMN_TYPE: Business - Entertainment/CASINO/Casino/Non NT
 String1=0x12,Casino
 ExtendedLabels=N
@@ -4465,7 +4514,8 @@ DayXpm="14 14 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02d05
+Type=0x02d
+SubType=0x05
 ;GRMN_TYPE: Business - Entertainment/GOLF_COURSE/Golf course/Non NT
 String1=0x12,Golf
 ExtendedLabels=N
@@ -4495,7 +4545,8 @@ DayXpm="14 15 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02d06
+Type=0x02d
+SubType=0x06
 ;GRMN_TYPE: Business - Entertainment/SKI_CENTER/Ski area or resort/Non NT
 String1=0x12,Lyzarske centrum
 ExtendedLabels=N
@@ -4525,7 +4576,8 @@ DayXpm="16 16 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02d07
+Type=0x02d
+SubType=0x07
 ;GRMN_TYPE: Business - Entertainment/BOWLING/Bowling alley/Non NT
 String1=0x12,Kuzelky
 ExtendedLabels=N
@@ -4555,7 +4607,8 @@ DayXpm="13 16 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02d08
+Type=0x02d
+SubType=0x08
 ;GRMN_TYPE: Business - Entertainment/ICE_SKATING/Ice skating rink/Non NT
 String1=0x12,Zimni stadion
 ExtendedLabels=N
@@ -4585,7 +4638,8 @@ DayXpm="16 16 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02d09
+Type=0x02d
+SubType=0x09
 ;GRMN_TYPE: Business - Entertainment/SWIMMING_POOL/Swimming pool/Non NT
 String1=0x12,Koupaliste
 ExtendedLabels=N
@@ -4616,7 +4670,8 @@ DayXpm="16 16 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02d0a
+Type=0x02d
+SubType=0x0a
 ;GRMN_TYPE: Business - Entertainment/FITNESS_CENTER/Fitness center or gym/Non NT
 String1=0x12,Sportoviste
 ExtendedLabels=N
@@ -4648,7 +4703,8 @@ DayXpm="11 17 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02e02
+Type=0x02e
+SubType=0x02
 ;GRMN_TYPE: Business - Shopping/GROCERY_STORE/Grocery store/Non NT
 String1=0x12,Obchod
 ExtendedLabels=Y
@@ -4682,7 +4738,8 @@ DayXpm="13 15 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02e04
+Type=0x02e
+SubType=0x04
 ;GRMN_TYPE: Business - Shopping/SHOPPING_CENTER/Shopping center or mall/Non NT
 String1=0x12,Supermarket
 ExtendedLabels=N
@@ -4708,7 +4765,8 @@ DayXpm="12 13 3 1"   Colormode=16
 
 
 [_point]
-Type=0x02e05
+Type=0x02e
+SubType=0x05
 ;GRMN_TYPE: Business - Shopping/PHARMACY/Pharmacy/Non NT
 String1=0x12,Lekarna
 ExtendedLabels=N
@@ -4735,7 +4793,8 @@ DayXpm="14 14 3 1"   Colormode=16
 
 
 [_point]
-Type=0x02f01
+Type=0x02f
+SubType=0x01
 ;GRMN_TYPE: Business - Services/GAS_STATION/Gas, fuel station/Non NT
 String1=0x12,Benzinka
 ExtendedLabels=N
@@ -4764,7 +4823,8 @@ DayXpm="12 14 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02f02
+Type=0x02f
+SubType=0x02
 ;GRMN_TYPE: Business - Services/AUTO_RENTAL/Car rental location/Non NT
 String1=0x12,Autopujcovna
 ExtendedLabels=N
@@ -4791,7 +4851,8 @@ DayXpm="15 13 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02f03
+Type=0x02f
+SubType=0x03
 ;GRMN_TYPE: Business - Services/AUTO_REPAIR/Car repair, mechanic/Non NT
 String1=0x12,Autoopravna
 ExtendedLabels=N
@@ -4819,7 +4880,8 @@ DayXpm="16 14 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02f04
+Type=0x02f
+SubType=0x04
 ;GRMN_TYPE: Business - Services/AIRPORT/Airport/Non NT
 String1=0x12,Letiste
 ExtendedLabels=N
@@ -4848,7 +4910,8 @@ DayXpm="13 14 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02f05
+Type=0x02f
+SubType=0x05
 ;GRMN_TYPE: Business - Services/POST_OFFICE/Post office/Non NT
 String1=0x12,Posta
 ExtendedLabels=N
@@ -4873,7 +4936,8 @@ DayXpm="14 11 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02f06
+Type=0x02f
+SubType=0x06
 ;GRMN_TYPE: Business - Services/BANK/Bank/Non NT
 String1=0x12,Bankomat
 ExtendedLabels=N
@@ -4900,7 +4964,8 @@ DayXpm="11 13 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02f08
+Type=0x02f
+SubType=0x08
 ;GRMN_TYPE: Business - Services/GND_TRANSPORT/Ground transportation status, i.e. a bus station/Non NT
 String1=0x12,Zastavka
 ExtendedLabels=N
@@ -4926,7 +4991,8 @@ DayXpm="16 11 5 1"   Colormode=16
 
 
 [_point]
-Type=0x02f09
+Type=0x02f
+SubType=0x09
 ;GRMN_TYPE: Business - Services/MARINA/Marina/Non NT
 String1=0x12,Vlak
 ExtendedLabels=N
@@ -4956,7 +5022,8 @@ DayXpm="16 16 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02f0b
+Type=0x02f
+SubType=0x0b
 ;GRMN_TYPE: Business - Services/PARKING/Parking/Non NT
 String1=0x12,Parkoviste
 ExtendedLabels=N
@@ -4983,7 +5050,8 @@ DayXpm="13 13 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02f0c
+Type=0x02f
+SubType=0x0c
 ;GRMN_TYPE: Business - Services/REST_AREA_TOURIST_INFO/Rest area, Tourist information/Non NT
 String1=0x12,Icko
 ExtendedLabels=N
@@ -5011,7 +5079,8 @@ DayXpm="9 15 3 1"   Colormode=16
 
 
 [_point]
-Type=0x02f13
+Type=0x02f
+SubType=0x13
 ;GRMN_TYPE: Business - Services/REPAIR_SERVICE/Repair service/Non NT
 String1=0x12,Trideny odpad
 ExtendedLabels=N
@@ -5038,7 +5107,8 @@ DayXpm="10 13 4 1"   Colormode=16
 
 
 [_point]
-Type=0x02f14
+Type=0x02f
+SubType=0x14
 ;GRMN_TYPE: Business - Services/SOCIAL_SERVICES/Social services/Non NT
 String1=0x12,Farma
 ExtendedLabels=N
@@ -5071,7 +5141,8 @@ DayXpm="16 16 7 1"   Colormode=16
 
 
 [_point]
-Type=0x02f15
+Type=0x02f
+SubType=0x15
 ;GRMN_TYPE: Business - Services/UTILITY/Utility (gas, electric, water) services/Non NT
 String1=0x12,Kos
 ExtendedLabels=N
@@ -5097,7 +5168,8 @@ DayXpm="10 13 3 1"   Colormode=16
 
 
 [_point]
-Type=0x03000
+Type=0x030
+SubType=0x00
 ;GRMN_TYPE: //
 String1=0x12,Obecni budova
 ExtendedLabels=N
@@ -5126,7 +5198,8 @@ DayXpm="10 14 5 1"   Colormode=16
 
 
 [_point]
-Type=0x03001
+Type=0x030
+SubType=0x01
 ;GRMN_TYPE: Business - Emergency and Government/POLICE_STATION/Police station/Non NT
 String1=0x12,Policie
 ExtendedLabels=N
@@ -5155,7 +5228,8 @@ DayXpm="15 15 4 1"   Colormode=16
 
 
 [_point]
-Type=0x03002
+Type=0x030
+SubType=0x02
 ;GRMN_TYPE: Business - Emergency and Government/HOSPITAL/Hospital/Non NT
 String1=0x12,Doktor
 ExtendedLabels=N
@@ -5180,7 +5254,8 @@ DayXpm="12 12 3 1"   Colormode=16
 
 
 [_point]
-Type=0x03003
+Type=0x030
+SubType=0x03
 ;GRMN_TYPE: Business - Emergency and Government/CITY_HALL/City hall/Non NT
 String1=0x12,Radnice
 ExtendedLabels=N
@@ -5209,7 +5284,8 @@ DayXpm="10 14 5 1"   Colormode=16
 
 
 [_point]
-Type=0x03004
+Type=0x030
+SubType=0x04
 ;GRMN_TYPE: Business - Emergency and Government/COURTHOUSE/Courthouse/Non NT
 String1=0x12,Soud
 ExtendedLabels=N
@@ -5238,7 +5314,8 @@ DayXpm="10 14 5 1"   Colormode=16
 
 
 [_point]
-Type=0x03005
+Type=0x030
+SubType=0x05
 ;GRMN_TYPE: Business - Emergency and Government/COMMUNITY_CENTER/Community center/Non NT
 String1=0x12,Horska sluzba
 ExtendedLabels=N
@@ -5263,7 +5340,8 @@ DayXpm="12 12 3 1"   Colormode=16
 
 
 [_point]
-Type=0x03006
+Type=0x030
+SubType=0x06
 ;GRMN_TYPE: Business - Emergency and Government/BORDER_CROSSING/Border crossing/Non NT
 String1=0x12,Hranicni prechod
 ExtendedLabels=N
@@ -5293,7 +5371,8 @@ DayXpm="17 17 3 1"   Colormode=16
 
 
 [_point]
-Type=0x03007
+Type=0x030
+SubType=0x07
 ;GRMN_TYPE: Business - Emergency and Government/GOV_OFFICE/Government Office/Non NT
 String1=0x12,Pesi hranicni prechod
 ExtendedLabels=N
@@ -5323,7 +5402,8 @@ DayXpm="17 17 3 1"   Colormode=16
 
 
 [_point]
-Type=0x03008
+Type=0x030
+SubType=0x08
 ;GRMN_TYPE: Business - Emergency and Government/FIRE_DEPT/Fire department/Non NT
 String1=0x12,Hasici
 ExtendedLabels=N
@@ -5354,7 +5434,8 @@ DayXpm="13 14 7 1"   Colormode=16
 
 
 [_point]
-Type=0x04300
+Type=0x043
+SubType=0x00
 ;GRMN_TYPE: //
 String1=0x12,Pristav
 ExtendedLabels=N
@@ -5384,7 +5465,8 @@ DayXpm="16 16 4 1"   Colormode=16
 
 
 [_point]
-Type=0x04700
+Type=0x047
+SubType=0x00
 ;GRMN_TYPE: Misc. Points of Interest/BOAT_RAMP/Boat ramp/Non NT, NT
 String1=0x12,Privoz
 ExtendedLabels=N
@@ -5417,7 +5499,8 @@ DayXpm="16 16 7 1"   Colormode=16
 
 
 [_point]
-Type=0x04a00
+Type=0x04a
+SubType=0x00
 ;GRMN_TYPE: Misc. Points of Interest/PICNIC_AREA/Picnic area/Non NT, NT
 String1=0x12,Nekryty stul
 ExtendedLabels=N
@@ -5447,7 +5530,8 @@ DayXpm="16 16 4 1"   Colormode=16
 
 
 [_point]
-Type=0x04c00
+Type=0x04c
+SubType=0x00
 ;GRMN_TYPE: Misc. Points of Interest/INFORMATION/Information/Non NT, NT
 String1=0x12,Info
 ExtendedLabels=N
@@ -5477,9 +5561,10 @@ DayXpm="8 16 4 1"   Colormode=16
 
 
 [_point]
-Type=0x04d00
+Type=0x04d
+SubType=0x00
 ;GRMN_TYPE: //
-String1=0x12,Nouzový telefon
+String1=0x12,Nouzovï¿½ telefon
 ExtendedLabels=N
 DayXpm="16 14 4 1"   Colormode=16
 "!	c #000000"
@@ -5505,7 +5590,8 @@ DayXpm="16 14 4 1"   Colormode=16
 
 
 [_point]
-Type=0x04e00
+Type=0x04e
+SubType=0x00
 ;GRMN_TYPE: Misc. Points of Interest/RESTROOMS/Restrooms/Non NT, NT
 String1=0x12,Toalety
 ExtendedLabels=N
@@ -5530,7 +5616,8 @@ DayXpm="14 12 3 1"   Colormode=16
 
 
 [_point]
-Type=0x04f00
+Type=0x04f
+SubType=0x00
 ;GRMN_TYPE: Misc. Points of Interest/SHOWERS/Showers/Non NT, NT
 String1=0x12,Sprcha
 ExtendedLabels=N
@@ -5560,7 +5647,8 @@ DayXpm="16 16 4 1"   Colormode=16
 
 
 [_point]
-Type=0x05000
+Type=0x050
+SubType=0x00
 ;GRMN_TYPE: Misc. Points of Interest/DRINKING_WATER/Drinking water/Non NT, NT
 String1=0x12,Pitna voda
 ExtendedLabels=N
@@ -5589,7 +5677,8 @@ DayXpm="13 14 5 1"   Colormode=16
 
 
 [_point]
-Type=0x05100
+Type=0x051
+SubType=0x00
 ;GRMN_TYPE: Misc. Points of Interest/PHONE/Phone/Non NT, NT
 String1=0x12,Telefon
 ExtendedLabels=N
@@ -5617,7 +5706,8 @@ DayXpm="16 14 4 1"   Colormode=16
 
 
 [_point]
-Type=0x05200
+Type=0x052
+SubType=0x00
 ;GRMN_TYPE: Misc. Points of Interest/SCENIC_AREA/Scenic area/Non NT, NT
 String1=0x12,Kryty stul
 ExtendedLabels=N
@@ -5647,7 +5737,8 @@ DayXpm="16 16 4 1"   Colormode=16
 
 
 [_point]
-Type=0x06403
+Type=0x064
+SubType=0x03
 ;GRMN_TYPE: Geographical Named Points of Interest/CEMETERY/Cemetery/Non NT, NT
 String1=0x12,Hrbitov
 ExtendedLabels=N
@@ -5674,7 +5765,8 @@ DayXpm="12 12 5 1"   Colormode=16
 
 
 [_point]
-Type=0x06404
+Type=0x064
+SubType=0x04
 ;GRMN_TYPE: Geographical Named Points of Interest/CHURCH/Church, mosque, etc./Non NT, NT
 String1=0x12,Kostel
 ExtendedLabels=N
@@ -5704,7 +5796,8 @@ DayXpm="16 14 6 1"   Colormode=16
 
 
 [_point]
-Type=0x06409
+Type=0x064
+SubType=0x09
 ;GRMN_TYPE: Geographical Named Points of Interest/LEVEE/Levee/Non NT, NT
 String1=0x12,Vodni mlyn
 ExtendedLabels=N
@@ -5737,7 +5830,8 @@ DayXpm="16 16 7 1"   Colormode=16
 
 
 [_point]
-Type=0x0640b
+Type=0x064
+SubType=0x0b
 ;GRMN_TYPE: Geographical Named Points of Interest/MILITARY/Military point of interest/Non NT, NT
 ExtendedLabels=N
 DayXpm="16 11 4 1"   Colormode=16
@@ -5761,7 +5855,8 @@ DayXpm="16 11 4 1"   Colormode=16
 
 
 [_point]
-Type=0x06411
+Type=0x064
+SubType=0x11
 ;GRMN_TYPE: Geographical Named Points of Interest/TOWER/Tower/Non NT, NT
 String1=0x12,Vez
 ExtendedLabels=N
@@ -5788,7 +5883,8 @@ DayXpm="9 14 3 1"   Colormode=16
 
 
 [_point]
-Type=0x06412
+Type=0x064
+SubType=0x12
 ;GRMN_TYPE: Geographical Named Points of Interest/TRAIL/Trailhead/Non NT, NT
 String1=0x12,Rozcestnik
 ExtendedLabels=Y
@@ -5823,7 +5919,8 @@ DayXpm="14 18 4 1"   Colormode=16
 
 
 [_point]
-Type=0x06507
+Type=0x065
+SubType=0x07
 ;GRMN_TYPE: Geographical Named Points of Interest - Water Related/COVE/Cove/Non NT, NT
 String1=0x12,Jeskyne
 ExtendedLabels=N
@@ -5849,7 +5946,8 @@ DayXpm="11 13 3 1"   Colormode=16
 
 
 [_point]
-Type=0x06508
+Type=0x065
+SubType=0x08
 ;GRMN_TYPE: Geographical Named Points of Interest - Water Related/WATERFALL/Waterfall/Non NT, NT
 String1=0x12,Vodopad
 ExtendedLabels=N
@@ -5879,7 +5977,8 @@ DayXpm="11 13 7 1"   Colormode=16
 
 
 [_point]
-Type=0x06511
+Type=0x065
+SubType=0x11
 ;GRMN_TYPE: Geographical Named Points of Interest - Water Related/SPRING/Spring/Non NT, NT
 String1=0x12,Pramen
 ExtendedLabels=Y
@@ -5908,9 +6007,10 @@ DayXpm="7 13 3 1"   Colormode=16
 
 
 [_point]
-Type=0x06514
+Type=0x065
+SubType=0x14
 ;GRMN_TYPE: //
-String1=0x12,Nepitný pramen
+String1=0x12,Nepitnï¿½ pramen
 ExtendedLabels=N
 DayXpm="7 13 4 1"   Colormode=16
 "!	c #FFFFFF"
@@ -5935,7 +6035,8 @@ DayXpm="7 13 4 1"   Colormode=16
 
 
 [_point]
-Type=0x06604
+Type=0x066
+SubType=0x04
 ;GRMN_TYPE: Geographical Named Points of Interest - Land Related/BEACH/Beach/Non NT, NT
 String1=0x12,Plaz
 ExtendedLabels=N
@@ -5968,7 +6069,8 @@ DayXpm="16 16 7 1"   Colormode=16
 
 
 [_point]
-Type=0x06605
+Type=0x066
+SubType=0x05
 ;GRMN_TYPE: Geographical Named Points of Interest - Land Related/BENCH/Bench/Non NT, NT
 String1=0x12,Lavicka
 ExtendedLabels=N
@@ -5989,7 +6091,8 @@ DayXpm="14 8 3 1"   Colormode=16
 
 
 [_point]
-Type=0x0660b
+Type=0x066
+SubType=0x0b
 ;GRMN_TYPE: Geographical Named Points of Interest - Land Related/GAP/Gap/Non NT, NT
 String1=0x12,Horsky prusmyk
 ExtendedLabels=N
@@ -6014,7 +6117,8 @@ DayXpm="11 11 4 1"   Colormode=16
 
 
 [_point]
-Type=0x06614
+Type=0x066
+SubType=0x14
 ;GRMN_TYPE: Geographical Named Points of Interest - Land Related/ROCK/Rock/Non NT, NT
 String1=0x12,Skalka
 ExtendedLabels=N
@@ -6039,7 +6143,8 @@ DayXpm="11 11 4 1"   Colormode=16
 
 
 [_point]
-Type=0x06615
+Type=0x066
+SubType=0x15
 ;GRMN_TYPE: Geographical Named Points of Interest - Land Related/SLOPE/Slope/Non NT, NT
 String1=0x12,Balvan
 ExtendedLabels=N
@@ -6062,7 +6167,8 @@ DayXpm="9 9 4 1"   Colormode=16
 
 
 [_point]
-Type=0x06616
+Type=0x066
+SubType=0x16
 ;GRMN_TYPE: Geographical Named Points of Interest - Land Related/SUMMIT/Summit, top of a hill or mountain/Non NT, NT
 String1=0x12,Vrchol
 ExtendedLabels=N
@@ -6084,7 +6190,8 @@ DayXpm="14 8 4 1"   Colormode=16
 
 
 [_point]
-Type=0x06617
+Type=0x066
+SubType=0x17
 ;GRMN_TYPE: Geographical Named Points of Interest - Land Related/VALLEY/Valley/Non NT, NT
 String1=0x12,Kota
 ExtendedLabels=N
@@ -6105,7 +6212,8 @@ DayXpm="7 7 4 1"   Colormode=16
 
 
 [_point]
-Type=0x06701
+Type=0x067
+SubType=0x01
 ;GRMN_TYPE: //
 String1=0x12,Rozhledna
 ExtendedLabels=N
@@ -6136,7 +6244,8 @@ DayXpm="12 16 5 1"   Colormode=16
 
 
 [_point]
-Type=0x11500
+Type=0x115
+SubType=0x00
 ;GRMN_TYPE: User Customizable Points/CUSTOMIZABLE_POINT_1/User customizable point type/Non NT, NT
 String1=0x12,Postovni schranka
 ExtendedLabels=N
@@ -6167,7 +6276,8 @@ DayXpm="16 17 4 1"   Colormode=16
 
 
 [_point]
-Type=0x11501
+Type=0x115
+SubType=0x01
 ;GRMN_TYPE: User Customizable Points/CUSTOMIZABLE_POINT_2/User customizable point type/Non NT, NT
 String1=0x12,Jez
 ExtendedLabels=N
@@ -6187,7 +6297,8 @@ DayXpm="7 7 3 1"   Colormode=16
 
 
 [_point]
-Type=0x11502
+Type=0x115
+SubType=0x02
 ;GRMN_TYPE: User Customizable Points/CUSTOMIZABLE_POINT_3/User customizable point type/Non NT, NT
 String1=0x12,Hraz
 ExtendedLabels=N
@@ -6211,7 +6322,8 @@ DayXpm="11 11 3 1"   Colormode=16
 
 
 [_point]
-Type=0x11503
+Type=0x115
+SubType=0x03
 ;GRMN_TYPE: User Customizable Points/CUSTOMIZABLE_POINT_4/User customizable point type/Non NT, NT
 String1=0x12,
 ExtendedLabels=N
