@@ -1585,7 +1585,7 @@ String1=0x12,Zemni vodojem
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #313131"
-"# c #00CAFF"
+"# c #9ABFDA"
 "##!###!###!###!###!###!###!###!#"
 "################################"
 "!###!###!###!###!###!###!###!###"
@@ -2160,7 +2160,7 @@ UseOrientation=N
 LineWidth=4
 BorderWidth=2
 Xpm="0 0 2 0"
-"1 c #FFFF00"
+"1 c #BDFF8B"
 "2 c #009500"
 String1=0x00,Dalnice
 ExtendedLabels=N
@@ -2174,7 +2174,7 @@ UseOrientation=N
 LineWidth=4
 BorderWidth=2
 Xpm="0 0 2 0"
-"1 c #FFFF00"
+"1 c #BDFF8B"
 "2 c #009500"
 String1=0x12,Rychlostni silnice
 ExtendedLabels=N
@@ -2244,8 +2244,8 @@ UseOrientation=N
 LineWidth=4
 BorderWidth=2
 Xpm="0 0 2 0"
-"1 c #FFFF00"
-"2 c #009500"
+"1 c #F7F16E"
+"2 c #CBAB5E"
 String1=0x12,Najezd
 ExtendedLabels=N
 [end]
@@ -2520,10 +2520,10 @@ LineWidth=7
 Xpm="0 0 1 0"
 "1 c #AAD3DF"
 String1=0x01,Riviere, Canal
-String2=0x02,Fluß, Kanal
+String2=0x02,Fluï¿½, Kanal
 String3=0x04,River, Canal
 String4=0x03,Rivier, Kanaal
-String5=0x15,Rzeka, Kana³
+String5=0x15,Rzeka, Kanaï¿½
 String6=0x10,Rio / Canal
 String7=0x05,Fiume/Canale
 ExtendedLabels=Y
@@ -2927,10 +2927,10 @@ Type=0x10e0d
 UseOrientation=N
 Xpm="32 3 2  1"
 "! c #000000"
-"# c #D5D5D5"
+"# c #FFFFFF"
+"!#########!#########!##########!"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"!!!#####!!!#####!!!#####!!!#####"
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"!#########!#########!##########!"
 ;12345678901234567890123456789012
 String1=0x12,Tram, vlecka
 ExtendedLabels=N
@@ -3041,15 +3041,9 @@ ExtendedLabels=N
 Type=0x10e13
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_20/Non-routable customizable line/Non NT, NT
 UseOrientation=N
-Xpm="32 5 2  1"
-"! c #626262"
-"  c none"
-"!!      !!      !!      !!      "
-"!!      !!      !!      !!      "
-"!!      !!      !!      !!      "
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-;12345678901234567890123456789012
+LineWidth=1
+Xpm="0 0 1 0"
+"1 c #B4B4B4"
 String1=0x12,Plot
 ExtendedLabels=N
 [end]
@@ -3059,15 +3053,9 @@ ExtendedLabels=N
 Type=0x10e14
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_21/Non-routable customizable line/Non NT, NT
 UseOrientation=N
-Xpm="32 5 2  1"
-"! c #FF6500"
-"  c none"
-"!!      !!      !!      !!      "
-"!!      !!      !!      !!      "
-"!!      !!      !!      !!      "
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-;12345678901234567890123456789012
+LineWidth=1
+Xpm="0 0 1 0"
+"1 c #FF6500"
 String1=0x12,Zed
 ExtendedLabels=N
 [end]
@@ -3077,15 +3065,9 @@ ExtendedLabels=N
 Type=0x10e15
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_22/Non-routable customizable line/Non NT, NT
 UseOrientation=N
-Xpm="32 5 2  1"
-"! c #00CA00"
-"  c none"
-"!!      !!      !!      !!      "
-"!!      !!      !!      !!      "
-"!!      !!      !!      !!      "
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-;12345678901234567890123456789012
+LineWidth=1
+Xpm="0 0 1 0"
+"1 c #00CA00"
 String1=0x12,Zivy plot
 ExtendedLabels=N
 [end]
@@ -6226,17 +6208,17 @@ String1=0x12,Vrchol
 ExtendedLabels=N
 DayXpm="14 8 4 1"   Colormode=16
 "!	c #000000"
-"#	c #FF0000"
-"%	c #FFFFFF"
+"#	c #FFFFFF"
+"%	c #7B3020"
 "  	c none"
-"      %%      "
-"     %!!%     "
-"    %!##!%    "
-"   %!####!%   "
-"  %!######!%  "
-" %!########!% "
-"%!!!!!!!!!!!!%"
-" %%%%%%%%%%%% "
+"      ##      "
+"     #!!#     "
+"    #!%%!#    "
+"   #!%%%%!#   "
+"  #!%%%%%%!#  "
+" #!%%%%%%%%!# "
+"#!!!!!!!!!!!!#"
+" ############ "
 ;12345678901234
 [end]
 
@@ -6398,6 +6380,41 @@ DayXpm="14 16 4 1"   Colormode=16
 "   %###% %!!% "
 "   %#%#%%%!!% "
 "   %##!!!!!!% "
+"    %!!!!!!%  "
+"     %%%%%%   "
+;12345678901234
+[end]
+
+
+[_point]
+Type=0x115
+SubType=0x03
+;GRMN_TYPE: User Customizable Points/CUSTOMIZABLE_POINT_4/User customizable point type/Non NT, NT
+String1=0x12,
+ExtendedLabels=N
+DayXpm="14 16 4 1"   Colormode=16
+"!	c #FF3000"
+"#	c #00FFFF"
+"%	c #101010"
+"  	c none"
+"     %%%%%%   "
+"    %!!!!!!%  "
+"   %!!!!!!!!% "
+"  %!!%%%%%!!% "
+" %!!%    %!!% "
+" %!!% %% %!!% "
+" %!% %##%%!!% "
+" %!!% %#%%!!% "
+"  %%%%##%%!!% "
+"    %##% %!!% "
+"    %##% %!!% "
+"   %###% %!!% "
+"   %#%#%%%!!% "
+"   %##!!!!!!% "
+"    %!!!!!!%  "
+"     %%%%%%   "
+;12345678901234
+[end]##!!!!!!% "
 "    %!!!!!!%  "
 "     %%%%%%   "
 ;12345678901234
