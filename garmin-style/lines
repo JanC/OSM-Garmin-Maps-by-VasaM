@@ -62,7 +62,7 @@ mkgmap:yellow=yes |   osmc:symbol ~ 'yellow.*'                                  
 mkgmap:black=yes  |   osmc:symbol ~ 'black.*'                                              { name '${blackname}' }  [0x10108 level 2 continue]
 mkgmap:green=yes  | ( osmc:symbol ~ 'green.*' & osmc:symbol!=green:white:green_backslash ) { name '${greenname}' }  [0x10e06 level 2 continue]
 mkgmap:ns=yes                                                                              { name '${nsname}' }     [0x10e0c level 2 continue]
-mkgmap:bikeroute=yes                                                                       { name 'Cyklo ${bikeroutename}' } [0x10e09 level 2 continue]
+mkgmap:bikeroute=yes                                                                       [0x10e09 level 2 continue]
 
 
 # Borders
