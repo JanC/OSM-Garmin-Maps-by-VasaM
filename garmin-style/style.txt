@@ -3131,6 +3131,25 @@ ExtendedLabels=N
 [end]
 
 
+[_line]
+Type=0x10e19
+;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_26/Non-routable customizable line/Non NT, NT
+UseOrientation=N
+Xpm="32 6 2  1"
+"! c #FF0020"
+"  c none"
+"!!      !!      !!      !!      "
+"!!      !!      !!      !!      "
+"!!      !!      !!      !!      "
+"!!      !!      !!      !!      "
+"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+;12345678901234567890123456789012
+String1=0x12,Vojensky Prostor
+ExtendedLabels=N
+[end]
+
+
 ;====================== POINTS ==========================
 
 
@@ -6422,6 +6441,10 @@ DayXpm="14 16 4 1"   Colormode=16
 "   %###% %!!% "
 "   %#%#%%%!!% "
 "   %##!!!!!!% "
+"    %!!!!!!%  "
+"     %%%%%%   "
+;12345678901234
+[end]%##!!!!!!% "
 "    %!!!!!!%  "
 "     %%%%%%   "
 ;12345678901234
