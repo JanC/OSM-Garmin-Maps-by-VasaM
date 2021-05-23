@@ -44,8 +44,8 @@ junction=roundabout & highway=unclassified [0x0c road_class=1 road_speed=1 resol
 junction=roundabout & highway=* [0x0c road_class=0 road_speed=1 resolution 22] 
 
 # Overways
-bridge=* & bridge!=no & highway!=proposed & bridge!=proposed & railway!=proposed [0x10e0e level 1 continue]
-( tunnel=yes | tunnel=true | tunnel=1 ) & highway!=proposed & railway!=* & waterway!=* [0x10e0f level 1 continue]
+# bridge=* & bridge!=no & highway!=proposed & bridge!=proposed & railway!=proposed [0x10e0e level 1 continue]
+# ( tunnel=yes | tunnel=true | tunnel=1 ) & highway!=proposed & railway!=* & waterway!=* [0x10e0f level 1 continue]
 
 
 # Barriers
@@ -108,7 +108,7 @@ highway=track | highway=byway | highway=minor { name '${name}' } [0x16 road_clas
 
 
 # No cars
-highway=footway                  { name '${name}' } [0x08 road_class 0 level 1]
+# highway=footway                  { name '${name}' } [0x08 road_class 0 level 1]
 highway=cycleway & foot=no       { name '${name}' } [0x09 road_class 0 level 2]
 highway=path | highway=bridleway { name '${name}' } [0x0a road_class 0 level 1]
 highway=cycleway                 { name '${name}' } [0x11 road_class 0 level 2]
