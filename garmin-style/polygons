@@ -112,7 +112,7 @@ landuse=orchard [0x4e level 2]
 # Leisure
 leisure=garden [0x17 level 0]
 leisure=golf_course [0x18 level 2]
-leisure=marina [0x09 level 1]
+# leisure=marina [0x09 level 1]
 leisure=park [0x10f02 level 1]
 # leisure=pitch [0x10f07 level 0]
 leisure=playground [0x19 level 0]
