@@ -409,8 +409,8 @@ Type=0x18
 String1=0x12,Golf
 ExtendedLabels=N
 Xpm="32 32 2 1"
-"! c #7BCA41"
-"# c #CAE1AE"
+"! c #626262"
+"# c #BDCA6A"
 "###!############################"
 "##!!############################"
 "#!!!############################"
@@ -453,8 +453,8 @@ Type=0x19
 String1=0x12,Hriste
 ExtendedLabels=N
 Xpm="32 32 2 1"
-"! c #7BCA41"
-"# c #CAE1AE"
+"! c #626262"
+"# c #BDCA6A"
 "#####!##########################"
 "###!!!!!########################"
 "##!!!!##!#######################"
@@ -498,7 +498,7 @@ String1=0x12,Hrbitov
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #626262"
-"# c #CAE1AE"
+"# c #BDCA6A"
 "##!!############################"
 "##!!############################"
 "!!!!!!##########################"
@@ -694,7 +694,7 @@ String1=0x12,Sad
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #DCE8BB"
+"# c #BDCA6A"
 "################################"
 "################################"
 "################################"
@@ -738,7 +738,7 @@ String1=0x12,Kroviny
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #3B9500"
-"# c #DCE8BB"
+"# c #BDCA6A"
 "################################"
 "################################"
 "################################"
@@ -782,7 +782,7 @@ String1=0x12,Les
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #CAE1AE"
+"# c #BDCA6A"
 "################################"
 "################################"
 "################################"
@@ -1057,7 +1057,7 @@ String1=0x12,Park
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #CAE1AE"
+"# c #BDCA6A"
 "################################"
 "################################"
 "################################"
@@ -1101,7 +1101,7 @@ String1=0x12,Chmelnice
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #CAE1AE"
+"# c #BDCA6A"
 "################################"
 "################################"
 "################################"
@@ -1145,7 +1145,7 @@ String1=0x12,Rekreacni zastavba
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #CAE1AE"
+"# c #BDCA6A"
 "################################"
 "################################"
 "################################"
@@ -1717,7 +1717,7 @@ String1=0x12,Taboreni
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #396520"
-"# c #CAE1AE"
+"# c #BDCA6A"
 "##!###!#########################"
 "##!!#!!#########################"
 "####!###########################"
@@ -1761,7 +1761,7 @@ String1=0x12,Skladka
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #FFCA8B"
-"# c #BD9541"
+"# c #000000"
 "################################"
 "##!!!!###############!!######!!!"
 "#!###!!###!!!!########!!####!!##"
@@ -2025,7 +2025,7 @@ String1=0x12,Smiseny les
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #CBE3B1"
+"# c #BDCA6A"
 "################################"
 "################################"
 "################################"
@@ -2069,7 +2069,7 @@ String1=0x12,Jehlicnaty les
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #CBE3B1"
+"# c #BDCA6A"
 "################################"
 "################################"
 "################################"
@@ -2113,7 +2113,7 @@ String1=0x12,Listnaty les
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #CBE3B1"
+"# c #BDCA6A"
 "################################"
 "################################"
 "################################"
@@ -2299,7 +2299,7 @@ Type=0x0b
 UseOrientation=N
 LineWidth=2
 Xpm="0 0 1 0"
-"1 c #7B6520"
+"1 c #000000"
 String1=0x12,Zpevnena cesta
 ExtendedLabels=N
 [end]
@@ -2323,7 +2323,7 @@ Type=0x0d
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_ROUTE_LINE_1/Routable customizable line/Non NT, NT
 UseOrientation=N
 Xpm="32 2 2  1"
-"! c #BD9541"
+"! c #000000"
 "  c none"
 "!!!!!!! !!!!!!! !!!!!!! !!!!!!! "
 "!!!!!!! !!!!!!! !!!!!!! !!!!!!! "
@@ -2338,7 +2338,7 @@ Type=0x0e
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_ROUTE_LINE_2/Routable customizable line/Non NT, NT
 UseOrientation=N
 Xpm="32 2 2  1"
-"! c #BD9541"
+"! c #000000"
 "  c none"
 "!!!!!!  !!!!!!  !!!!!!  !!!!!!  "
 "!!!!!!  !!!!!!  !!!!!!  !!!!!!  "
@@ -2353,7 +2353,7 @@ Type=0x0f
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_ROUTE_LINE_3/Routable customizable line/Non NT, NT
 UseOrientation=N
 Xpm="32 2 2  1"
-"! c #BD9541"
+"! c #000000"
 "  c none"
 "!!!!!   !!!!!   !!!!!   !!!!!   "
 "!!!!!   !!!!!   !!!!!   !!!!!   "
@@ -2368,7 +2368,7 @@ Type=0x10
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_ROUTE_LINE_4/Routable customizable line/Non NT, NT
 UseOrientation=N
 Xpm="32 2 2  1"
-"! c #BD9541"
+"! c #000000"
 "  c none"
 "!!!!    !!!!    !!!!    !!!!    "
 "!!!!    !!!!    !!!!    !!!!    "
@@ -2429,7 +2429,7 @@ Type=0x16
 ;GRMN_TYPE: Roads/TRAIL/Walkway or trail/Non NT, NT
 UseOrientation=N
 Xpm="32 2 2  1"
-"! c #7B6520"
+"! c #000000"
 "  c none"
 "!!!!!!!!!!!     !!!!!!!!!!!     "
 "!!!!!!!!!!!     !!!!!!!!!!!     "
@@ -2550,11 +2550,11 @@ Type=0x20
 UseOrientation=N
 LineWidth=1
 Xpm="0 0 1 0"
-"1 c #B4B4B4"
+"1 c #B89440"
 ExtendedLabels=Y
 FontStyle=NoLabel (invisible)
 CustomColor=Day
-DaycustomColor:#7B3000
+DaycustomColor:#B89440
 [end]
 
 
@@ -2564,11 +2564,11 @@ Type=0x21
 UseOrientation=N
 LineWidth=2
 Xpm="0 0 1 0"
-"1 c #CCCDBF"
+"1 c #B89440"
 ExtendedLabels=Y
-FontStyle=NoLabel (invisible)
+FontStyle=NormalFont
 CustomColor=Day
-DaycustomColor:#7B3000
+DaycustomColor:#504418
 [end]
 
 
@@ -2578,11 +2578,11 @@ Type=0x22
 UseOrientation=N
 LineWidth=2
 Xpm="0 0 1 0"
-"1 c #CCCDBF"
+"1 c #B89440"
 ExtendedLabels=Y
-FontStyle=Default
+FontStyle=NormalFont
 CustomColor=Day
-DaycustomColor:#7B3000
+DaycustomColor:#504418
 [end]
 
 
@@ -3014,7 +3014,7 @@ Type=0x10e11
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_18/Non-routable customizable line/Non NT, NT
 UseOrientation=N
 Xpm="32 5 2  1"
-"! c #BD9541"
+"! c #000000"
 "  c none"
 "      !       !       !       ! "
 "      !       !       !       ! "
@@ -4020,7 +4020,7 @@ String1=0x12,Otevreny srub
 ExtendedLabels=N
 DayXpm="18 19 6 1"   Colormode=16
 "!	c #7B3000"
-"#	c #BD9541"
+"#	c #000000"
 "%	c #A4A4A4"
 "?	c #3995FF"
 "$	c #FFFFFF"
@@ -6441,10 +6441,6 @@ DayXpm="14 16 4 1"   Colormode=16
 "   %###% %!!% "
 "   %#%#%%%!!% "
 "   %##!!!!!!% "
-"    %!!!!!!%  "
-"     %%%%%%   "
-;12345678901234
-[end]%##!!!!!!% "
 "    %!!!!!!%  "
 "     %%%%%%   "
 ;12345678901234
