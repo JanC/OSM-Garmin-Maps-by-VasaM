@@ -400,7 +400,7 @@ Type=0x17
 String1=0x12,Zelen/zahrada
 ExtendedLabels=N
 Xpm="0 0 1 0"
-"1 c #DCE8BB"
+"1 c #F8F8E0"
 [end]
 
 
@@ -411,7 +411,7 @@ String1=0x12,Golf
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #626262"
-"# c #90C458"
+"# c #B8F078"
 "###!############################"
 "##!!############################"
 "#!!!############################"
@@ -455,7 +455,7 @@ String1=0x12,Hriste
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #626262"
-"# c #90C458"
+"# c #B8F078"
 "#####!##########################"
 "###!!!!!########################"
 "##!!!!##!#######################"
@@ -499,7 +499,7 @@ String1=0x12,Hrbitov
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #626262"
-"# c #90C458"
+"# c #B8F078"
 "##!!############################"
 "##!!############################"
 "!!!!!!##########################"
@@ -699,7 +699,7 @@ String1=0x12,Sad
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #90C458"
+"# c #B8F078"
 "################################"
 "################################"
 "################################"
@@ -974,7 +974,7 @@ String1=0x12,Vinice
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #DCE8BB"
+"# c #B8F078"
 "################################"
 "########!#######################"
 "#######!########################"
@@ -1064,7 +1064,7 @@ String1=0x12,Park
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #90C458"
+"# c #B8F078"
 "################################"
 "################################"
 "################################"
@@ -1108,7 +1108,7 @@ String1=0x12,Chmelnice
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #90C458"
+"# c #B8F078"
 "################################"
 "################################"
 "################################"
@@ -1152,7 +1152,7 @@ String1=0x12,Rekreacni zastavba
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #399500"
-"# c #90C458"
+"# c #B8F078"
 "################################"
 "################################"
 "################################"
@@ -1724,7 +1724,7 @@ String1=0x12,Taboreni
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #396520"
-"# c #90C458"
+"# c #B8F078"
 "##!###!#########################"
 "##!!#!!#########################"
 "####!###########################"
@@ -2497,9 +2497,11 @@ ExtendedLabels=N
 Type=0x1c
 ;GRMN_TYPE: Political Borders/MJR_PLTCL_BDRY/Major political boundary (typically used for state, provincial borders)/Non NT
 UseOrientation=N
-Xpm="32 5 2  1"
-"! c #8EB761"
+Xpm="32 5 4  1"
+"! c #508800"
 "  c none"
+"3 c #204000"
+"4 c none"
 "!!!!!!!!   !!!!!!!!  !!!!!!!!   "
 "!!!!!!!!   !!!!!!!!  !!!!!!!!   "
 "   !!         !!        !!      "
@@ -2717,7 +2719,7 @@ Type=0x10e04
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_5/Non-routable customizable line/Non NT, NT
 UseOrientation=N
 Xpm="32 16 2  1"
-"! c #FF0020"
+"! c #F80000"
 "  c none"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
@@ -2749,7 +2751,7 @@ Type=0x10e05
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_6/Non-routable customizable line/Non NT, NT
 UseOrientation=N
 Xpm="32 16 2  1"
-"! c #0000D5"
+"! c #0000D0"
 "  c none"
 "                                "
 "                                "
@@ -2781,7 +2783,7 @@ Type=0x10e06
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_7/Non-routable customizable line/Non NT, NT
 UseOrientation=N
 Xpm="32 15 2  1"
-"! c #399520"
+"! c #008800"
 "  c none"
 "                                "
 "                                "
@@ -2789,14 +2791,14 @@ Xpm="32 15 2  1"
 "                                "
 "                                "
 "                                "
+"                                "
+"                                "
+"                                "
+"                                "
+"                                "
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"                                "
-"                                "
-"                                "
-"                                "
-"                                "
 "                                "
 ;12345678901234567890123456789012
 String1=0x12,Zelena
@@ -2812,7 +2814,7 @@ Type=0x10e07
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_8/Non-routable customizable line/Non NT, NT
 UseOrientation=N
 Xpm="32 16 2  1"
-"! c #FFC720"
+"! c #F8F800"
 "  c none"
 "                                "
 "                                "
@@ -2864,7 +2866,7 @@ Type=0x10e09
 ;GRMN_TYPE: Customizable Line Types/CUSTOMIZABLE_LINE_10/Non-routable customizable line/Non NT, NT
 UseOrientation=Y
 Xpm="32 16 2  1"
-"! c #FF648B"
+"! c #F07490"
 "  c none"
 "                                "
 "                                "
