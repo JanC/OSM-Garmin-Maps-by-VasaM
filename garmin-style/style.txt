@@ -544,8 +544,9 @@ ExtendedLabels=Y
 FontStyle=Default
 CustomColor=Day
 DaycustomColor:#0000D5
-Xpm="0 0 1 0"
-"1 c #9ABFDA"
+Xpm="0 0 2 0"
+"1 c #809CF8"
+"2 c #2000B8"
 [end]
 
 
@@ -557,8 +558,9 @@ ExtendedLabels=Y
 FontStyle=Default
 CustomColor=Day
 DaycustomColor:#0000D5
-Xpm="0 0 1 0"
-"1 c #9ABFDA"
+Xpm="0 0 2 0"
+"1 c #809CF8"
+"2 c #2000B8"
 [end]
 
 
@@ -570,8 +572,9 @@ ExtendedLabels=Y
 FontStyle=Default
 CustomColor=Day
 DaycustomColor:#0000D5
-Xpm="0 0 1 0"
-"1 c #9ABFDA"
+Xpm="0 0 2 0"
+"1 c #809CF8"
+"2 c #2000B8"
 [end]
 
 
@@ -630,8 +633,9 @@ ExtendedLabels=Y
 FontStyle=Default
 CustomColor=Day
 DaycustomColor:#0000D5
-Xpm="0 0 1 0"
-"1 c #9ABFDA"
+Xpm="0 0 2 0"
+"1 c #809CF8"
+"2 c #2000B8"
 [end]
 
 
@@ -825,9 +829,11 @@ Type=0x51
 ;GRMN_TYPE: Surface Cover Areas/WETLAND/Wetland or swamp area/Non NT
 String1=0x12,Mocal / Bazina
 ExtendedLabels=N
-Xpm="32 32 2 1"
-"! c #9ABFDA"
+Xpm="32 32 4 1"
+"! c #809CF8"
 "  c none"
+"3 c #2000B8"
+"4 c none"
 "                    !           "
 "  !!!!!!!!          !   !       "
 "                 !  !   !       "
@@ -2445,8 +2451,9 @@ Type=0x18
 ;GRMN_TYPE: Water Features/STREAM/Small stream or creek/Non NT
 UseOrientation=Y
 LineWidth=2
-Xpm="0 0 1 0"
-"1 c #AAD3DF"
+Xpm="0 0 2 0"
+"1 c #809CF8"
+"2 c #2000B8"
 String1=0x12,Potok
 ExtendedLabels=Y
 FontStyle=SmallFont
@@ -2529,8 +2536,9 @@ Type=0x1f
 ;GRMN_TYPE: Water Features/RIVER/Large stream or river/Non NT
 UseOrientation=Y
 LineWidth=7
-Xpm="0 0 1 0"
-"1 c #AAD3DF"
+Xpm="0 0 2 0"
+"1 c #809CF8"
+"2 c #2000B8"
 String1=0x01,Riviere, Canal
 String2=0x02,Flu�, Kanal
 String3=0x04,River, Canal
