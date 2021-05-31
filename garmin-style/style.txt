@@ -544,7 +544,7 @@ FontStyle=Default
 CustomColor=Day
 DaycustomColor:#0000D5
 Xpm="0 0 1 0"
-"1 c #809CF8"
+"1 c #9ABFDA"
 [end]
 
 
@@ -557,7 +557,7 @@ FontStyle=Default
 CustomColor=Day
 DaycustomColor:#0000D5
 Xpm="0 0 1 0"
-"1 c #809CF8"
+"1 c #9ABFDA"
 [end]
 
 
@@ -570,7 +570,7 @@ FontStyle=Default
 CustomColor=Day
 DaycustomColor:#0000D5
 Xpm="0 0 1 0"
-"1 c #809CF8"
+"1 c #9ABFDA"
 [end]
 
 
@@ -583,7 +583,7 @@ FontStyle=Default
 CustomColor=Day
 DaycustomColor:#0000D5
 Xpm="32 32 2 1"
-"! c #809CF8"
+"! c #9ABFDA"
 "  c none"
 " ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !"
 "! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! "
@@ -630,7 +630,7 @@ FontStyle=Default
 CustomColor=Day
 DaycustomColor:#0000D5
 Xpm="0 0 1 0"
-"1 c #809CF8"
+"1 c #9ABFDA"
 [end]
 
 
@@ -639,7 +639,7 @@ Type=0x4b
 ;GRMN_TYPE: Map Bounds/DATA_BOUNDS/Bounds of map after creation/Non NT
 ExtendedLabels=N
 Xpm="0 0 1 0"
-"1 c #EDE5D1"
+"1 c #F8F8E0"
 [end]
 
 
@@ -825,7 +825,7 @@ Type=0x51
 String1=0x12,Mocal / Bazina
 ExtendedLabels=N
 Xpm="32 32 2 1"
-"! c #809CF8"
+"! c #9ABFDA"
 "  c none"
 "                    !           "
 "  !!!!!!!!          !   !       "
@@ -868,7 +868,7 @@ Type=0x10102
 ;GRMN_TYPE: Surface Cover Areas/LAND_URBAN/Urban land area/Non NT, NT
 ExtendedLabels=N
 Xpm="0 0 1 0"
-"1 c #EDE5D1"
+"1 c #F8F8E0"
 [end]
 
 
@@ -1013,7 +1013,7 @@ FontStyle=NoLabel (invisible)
 CustomColor=No
 Xpm="32 32 2 1"
 "! c #396520"
-"# c #EDE5D1"
+"# c #E8F8A0"
 "################################"
 "################################"
 "################################"
@@ -1585,7 +1585,7 @@ String1=0x12,Zemni vodojem
 ExtendedLabels=N
 Xpm="32 32 2 1"
 "! c #313131"
-"# c #809CF8"
+"# c #9ABFDA"
 "##!###!###!###!###!###!###!###!#"
 "################################"
 "!###!###!###!###!###!###!###!###"

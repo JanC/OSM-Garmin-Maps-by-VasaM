@@ -22,7 +22,7 @@ landuse=vineyard [0x10f00 level 2]
 landuse=allotments [0x10f04 level 2]
 landuse=farm [0x10f0b level 2]
 landuse=farmyard [0x10f0b level 2]
-landuse=farmland [0x10f16 level 3]
+# landuse=farmland [0x10f16 level 3]
 landuse=basin [0x40 level 2]	# Nadrz na privalovou vodu
 landuse=cemetary | landuse=cemetery [0x1a level 2]
 landuse=recreation_ground [0x19 level 2]
