@@ -388,8 +388,9 @@ Type=0x13
 ;GRMN_TYPE: Large Manmade Areas/GENERIC_MANMADE/Other or generic manmade area, such as a building/Non NT
 String1=0x12,Budova
 ExtendedLabels=N
-Xpm="0 0 1 0"
-"1 c #DED2B8"
+Xpm="0 0 2 0"
+"1 c #909490"
+"2 c #485448"
 [end]
 
 
