@@ -64,15 +64,17 @@ def prepare():
 	# TODO phyghtmap
 
 
-	d.download('http://osm.thkukuk.de/data/sea-latest.zip', './sea.zip')
-	with zipfile.ZipFile('./sea.zip', 'r') as zipRef:
-		zipRef.extractall(data['sea'])
-	os.remove('./sea.zip')
+	if not os.path.exists('./sea.zip'):
+		d.download('http://osm.thkukuk.de/data/sea-latest.zip', './sea.zip')
+		with zipfile.ZipFile('./sea.zip', 'r') as zipRef:
+			zipRef.extractall(data['sea'])
+		#os.remove('./sea.zip')
 
-	d.download('http://osm.thkukuk.de/data/bounds-latest.zip', './bounds.zip')
-	with zipfile.ZipFile('./bounds.zip', 'r') as zipRef:
-		zipRef.extractall(data['bounds'])
-	os.remove('./bounds.zip')
+	if not os.path.exists('./bounds.zip'):
+		d.download('http://osm.thkukuk.de/data/bounds-latest.zip', './bounds.zip')
+		with zipfile.ZipFile('./bounds.zip', 'r') as zipRef:
+			zipRef.extractall(data['bounds'])
+		# os.remove('./bounds.zip')
 
 
 	data['splitter'] = 0
