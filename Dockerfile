@@ -15,7 +15,7 @@ COPY . /vasam
 
 WORKDIR /vasam
 
-RUN python3 update.py
+RUN python3 prepare.py
 
 VOLUME [ "/vasam/maps" ]
 
