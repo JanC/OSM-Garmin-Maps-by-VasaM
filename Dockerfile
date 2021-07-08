@@ -18,8 +18,10 @@ WORKDIR /vasam
 RUN python3 prepare.py
 
 VOLUME [ "/vasam/maps" ]
+VOLUME [ "/vasam/polygons" ]
+VOLUME [ "/vasam/userAreas" ]
 
 ENV area CZ
 ENV encoding unicode
 
-CMD ["sh", "-c", "python3 gmapmaker.py -a ${area} -c ${encoding}"]
+CMD ["sh", "-c", "python3 gmapmaker.py -a ${area} -c ${encoding} --download auto"]
