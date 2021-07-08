@@ -20,6 +20,7 @@ RUN python3 prepare.py
 VOLUME [ "/vasam/maps" ]
 VOLUME [ "/vasam/polygons" ]
 VOLUME [ "/vasam/userAreas" ]
+VOLUME [ "/vasam/pbf" ]
 
 ENV area CZ
 ENV encoding unicode
