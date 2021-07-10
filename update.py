@@ -1,4 +1,4 @@
-import zipfile, os, shutil, platform
+import zipfile, os, shutil, platform, stat
 from makerfuncs import download as d, config
 
 def update():
@@ -41,10 +41,15 @@ def update():
 	print('Detected system' , sysVersion, sysBits)
 	if sysVersion in ['Windows', 'Linux'] and sysBits in ['32bit', '64bit']:
 		print('Download osmconvert for this system')
+		binName = 'osmconvert' + sysBits[0:2]
+		binPath = './osmconvert/' + binName
 		if sysVersion == 'Linux':
-			d.download('http://m.m.i24.cc/osmconvert' + sysBits[0:2], './osmconvert/osmconvert' + sysBits[0:2])
+			d.download('http://m.m.i24.cc/osmconvert' + sysBits[0:2], binPath)
+
+			st = os.stat(binPath)
+			os.chmod(binPath, st.st_mode | stat.S_IEXEC)
 		elif sysVersion == 'Windows':
-			d.download('http://m.m.i24.cc/osmconvert' + ('64' if sysBits == '64bit' else '') + '.exe', './osmconvert/osmconvert' + sysBits[0:2] + '.exe')
+			d.download('http://m.m.i24.cc/osmconvert' + ('64' if sysBits == '64bit' else '') + '.exe', './osmconvert/' + binName + '.exe')		
 
 	else:
 		print('')
