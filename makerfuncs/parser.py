@@ -4,7 +4,6 @@ from datetime import datetime, timezone
 
 from makerfuncs.Area import Area
 from makerfuncs.states import STATES
-from userAreas.myAreas import USER_AREAS
 
 
 
@@ -56,6 +55,7 @@ def _findState(id):
 
 
 def _makeAreaObject(id, obj, options, continent = None):
+	from userAreas.myAreas import USER_AREAS
 	# Doplnim id a dataId
 	obj.id = id
 
@@ -88,6 +88,7 @@ def _makeAreaObject(id, obj, options, continent = None):
 
 
 def area(o):
+	from userAreas.myAreas import USER_AREAS
 	if o.area is None:
 		while True:
 			print('\nVyberte svetadil')
