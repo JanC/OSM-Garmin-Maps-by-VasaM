@@ -1,0 +1,13 @@
+bounds/*
+hgt/*
+MapEdit/*
+sea/*
+pbf/*
+maps/*
+polygons/*
+*__pycache__*
+mkgmap-r*/*
+splitter-r*/*
+userAreas/*
+osmconvert/*
+gmapmaker.config
