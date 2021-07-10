@@ -11,7 +11,7 @@ from makerfuncs.prints import say, error, end
 # Nastevni a globalni promenne
 class Options:
 	def __init__(self):
-		self.JAVAMEM  = '-Xmx1g'   # Maximalni velikost RAM, kterou lze pouzit, viz https://stackoverflow.com/questions/14763079/what-are-the-xms-and-xmx-parameters-when-starting-jvm
+		self.JAVAMEM  = '-Xmx4g'   # Maximalni velikost RAM, kterou lze pouzit, viz https://stackoverflow.com/questions/14763079/what-are-the-xms-and-xmx-parameters-when-starting-jvm
 		self.MAX_JOBS = 4          # Maximalni pocet vlaken
 
 		self.VERSION = 100		   # Verze generovane mapy
