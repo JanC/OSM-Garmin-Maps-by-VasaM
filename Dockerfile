@@ -25,4 +25,4 @@ VOLUME [ "/vasam/pbf" ]
 ENV area CZ
 ENV encoding unicode
 
-CMD ["sh", "-c", "./docker_cmd.sh"]
+CMD ["sh", "-c", "./docker_cmd.sh $area $encoding"]

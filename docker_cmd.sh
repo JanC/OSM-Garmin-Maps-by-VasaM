@@ -1,5 +1,6 @@
 #! /bin/bash
 
-python3 -c 'import prepare; prepare.prepareUserAreas()'
-
+area=$1
+encoding=$2
+python3 prepareUserAreas.py
 python3 gmapmaker.py -a ${area} -c ${encoding} --download auto

@@ -1,14 +1,16 @@
 #! /bin/bash
 
-mkdir -p ${PWD}/{maps,polygons,userAreas,pbf}
+workdir=${PWD}
+workdir="/tmp/vasam"
+mkdir -p ${workdir}/{maps,polygons,userAreas,pbf}
 
 area=$1
 
 docker run --rm -it \
-	-v ${PWD}/maps:/vasam/maps/ \
-	-v ${PWD}/polygons:/vasam/polygons/ \
-    -v ${PWD}/userAreas:/vasam/userAreas/ \
-	-v ${PWD}/pbf:/vasam/pbf/ \
+	-v ${workdir}/maps:/vasam/maps/ \
+	-v ${workdir}/polygons:/vasam/polygons/ \
+    -v ${workdir}/userAreas:/vasam/userAreas/ \
+	-v ${workdir}/pbf:/vasam/pbf/ \
 	-e area=${area} textwil/vasam
 
 
