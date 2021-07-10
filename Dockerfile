@@ -25,4 +25,4 @@ VOLUME [ "/vasam/pbf" ]
 ENV area CZ
 ENV encoding unicode
 
-CMD ["sh", "-c", "python3 gmapmaker.py -a ${area} -c ${encoding} --download auto"]
+CMD ["sh", "-c", "./docker_cmd.sh"]

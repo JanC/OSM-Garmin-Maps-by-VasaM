@@ -3,24 +3,26 @@ import zipfile, os
 
 def prepareUserAreas():
 	# Pripravim slozku pro uzivatelske oblasti
-	try:
-		os.mkdir('userAreas')
-	except FileExistsError:
-		print("Directory userAreas already exists")
+	if not os.path.exists("userAreas"):
+		try:
+			os.mkdir('userAreas')
+		except:
+			print("Could not create userAreas directory")
 
-	with open('userAreas/myAreas.py', 'w') as file:
-		file.write('from makerfuncs.Area import Area\n')
-		file.write('from makerfuncs.states import STATES\n')
-		file.write('\n')
-		file.write('USER_AREAS = {\n')
-		file.write('	\'OL\': Area(\n')
-		file.write('		parent = \'CZ\',\n')
-		file.write('		nameCs = \'Olomouc\',\n')
-		file.write('		number = 8800,\n')
-		file.write('		pois   = [\'./pois/chs.osm.xml\',],\n')
-		file.write('		crop   = True\n')
-		file.write('	),\n')
-		file.write('}\n')
+	if not os.path.exists("userAreas/myAreas.py"):
+		with open('userAreas/myAreas.py', 'w') as file:
+			file.write('from makerfuncs.Area import Area\n')
+			file.write('from makerfuncs.states import STATES\n')
+			file.write('\n')
+			file.write('USER_AREAS = {\n')
+			file.write('	\'OL\': Area(\n')
+			file.write('		parent = \'CZ\',\n')
+			file.write('		nameCs = \'Olomouc\',\n')
+			file.write('		number = 8800,\n')
+			file.write('		pois   = [\'./pois/chs.osm.xml\',],\n')
+			file.write('		crop   = True\n')
+			file.write('	),\n')
+			file.write('}\n')
 
 
 def prepare():
