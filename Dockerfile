@@ -21,6 +21,7 @@ VOLUME [ "/vasam/maps" ]
 VOLUME [ "/vasam/polygons" ]
 VOLUME [ "/vasam/userAreas" ]
 VOLUME [ "/vasam/pbf" ]
+VOLUME [ "/vasam/hgt" ]
 
 ENV area CZ
 ENV encoding unicode

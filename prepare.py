@@ -52,15 +52,16 @@ def prepare():
 
 	prepareUserAreas()
 
-	if not os.path.exists(data['sea']):
+	if not os.path.exists(data['sea']):	
 		d.download('http://osm.thkukuk.de/data/sea-latest.zip', './sea.zip')
 		with zipfile.ZipFile('./sea.zip', 'r') as zipRef:
+			print("Unzipping sea.zip")
 			zipRef.extractall(data['sea'])
 		#os.remove('./sea.zip')
-
-	if not os.path.exists(data['bounds']):
+	if not os.path.exists(data['bounds']):		
 		d.download('http://osm.thkukuk.de/data/bounds-latest.zip', './bounds.zip')
 		with zipfile.ZipFile('./bounds.zip', 'r') as zipRef:
+			print("Unzipping bounds.zip")
 			zipRef.extractall(data['bounds'])
 		# os.remove('./bounds.zip')
 

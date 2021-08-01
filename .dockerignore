@@ -1,7 +1,6 @@
-bounds/*
+
 hgt/*
 MapEdit/*
-sea/*
 pbf/*
 maps/*
 polygons/*
@@ -11,3 +10,5 @@ splitter-r*/*
 userAreas/*
 osmconvert/*
 gmapmaker.config
+sea.zip
+bounds.zip
