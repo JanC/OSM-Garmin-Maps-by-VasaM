@@ -4,6 +4,30 @@
 [![Licence Creative Commons](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
 Toto dílo podléhá licenci [Creative Commons Uveďte původ 4.0 Mezinárodní License](http://creativecommons.org/licenses/by/4.0/).
 
+## Použití s Docker
+
+- Je potreba nainstalovat [Docker](https://www.docker.com/)
+- Vytvorit adresare kam budou stazeny data a 
+
+
+	```bash
+	mkdir -p ${PWD}/{maps,polygons,userAreas,pbf}
+	```
+
+- Potom jenom spustit docker. Tady naprikad `area=CZ`
+	
+	```
+	docker run --rm -it \
+		-v ${PWD}/maps:/vasam/maps/ \
+		-v ${PWD}/polygons:/vasam/polygons/ \
+	    -v ${PWD}/userAreas:/vasam/userAreas/ \
+		-v ${PWD}/pbf:/vasam/pbf/ \
+		-e area=CZ textwil/vasam_garmin
+	```
+	
+Mapy budou vygenerovany v adresary `maps`	
+
+
 ## Požadavky
 * Java verze 8
 * Python verze 3 (testováno na 3.8.5)
